@@ -2,9 +2,11 @@
 implementation of binary search tree 
 
 ##----------------------------------------------##
+
 All the methods that change the tree maintain the  Binary Search Tree (BST) invariant.
 
 ##----------------------------------------------##
+
 1. Diameter of a tree is the length of the longest path in the
 tree.
 
